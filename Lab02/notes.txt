@@ -1,2 +1,3 @@
 Notatki do Lab02
 Kolejna linia notatek
+Linia dopisana lokalnie przed pobraniem zmian
